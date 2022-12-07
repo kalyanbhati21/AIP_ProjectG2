@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#Environments
+.env
+.venv
+env/
+aipenv/
+ENV/
+env.bak/
+aipenv.bak/
+.tcl
